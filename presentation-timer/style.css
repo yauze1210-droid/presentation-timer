@@ -1,15 +1,10 @@
-body {
-  font-family: sans-serif;
-}
+body{font-family:sans-serif;}
 
-#script-input {
-  width: 100%;
-  box-sizing: border-box;
-}
+#script-input{width:100%; box-sizing:border-box;}
 
-#script-area div {
-  padding: 6px 4px;
-  border-radius: 4px;
-  cursor: pointer;
-  color: #3b2f2f;
+#script-area div{
+  padding:6px 4px;
+  border-radius:4px;
+  cursor:pointer;
+  color:#3b2f2f;
 }
