@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>スクリプト進行デモ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <label>
+    制限時間（秒）：
+    <input id="time-input" type="number" value="70" min="1">
+  </label>
+
+  <br><br>
+
+  <textarea
+    id="script-input"
+    rows="8"
+    placeholder="ここに原稿を1行ずつ入力してください"
+  ></textarea>
+
+  <br><br>
+
+  <button id="start-btn">ここから開始</button>
+
+  <div id="script-area"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
