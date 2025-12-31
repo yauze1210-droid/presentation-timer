@@ -7,7 +7,7 @@
 数字や細かい情報は表示せず、  
 進行状況のみを色で示します。
 
-[ツールはこちら](https://yauze1210-droid.github.io/presentation-timer/)
+[ツールはこちら](https://mamamakoto-guide.github.io/presentation-timer/)
 ---
 
 ## できること
