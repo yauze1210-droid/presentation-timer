@@ -6,6 +6,7 @@
 原稿（プレゼンや発表用の台本）を読みながら時間を確認すると集中が切れやすいため、  
 数字や細かい情報は表示せず、  
 進行状況のみを色で示します。
+※ In this README, "原稿" refers to a presentation script, not a doujinshi.
 
 [ツールはこちら](https://mamamakoto-guide.github.io/presentation-timer/)
 ---
