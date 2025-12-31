@@ -16,7 +16,7 @@ function renderScript(elapsed=0){
   scriptArea.innerHTML = "";
 
   if(script.length===0){
-    scriptArea.textContent="原稿を入力してください";
+    scriptArea.textContent="ここに、作成された原稿が表示されます。";
     return;
   }
 
@@ -89,3 +89,4 @@ startBtn.addEventListener("click",()=>{
 });
 
 renderScript();
+
